@@ -2,7 +2,7 @@
 Graduate IT project developing an integrated IT Asset Management (ITAM) system with dashboards, security architecture, and process automation.
 # IniTech Solutions – IT Asset Management Project
 
-**Course:** IFT 550 – Enterprise Information Systems  
+Course:– Enterprise Information Systems  
 **Institution:** Arizona State University – The Polytechnic School  
 
 ## Project Overview:
